@@ -31,6 +31,7 @@
 - [Eduardo S. de Araujo](profiles/EduardoSdeAraujo.md)
 - [Elton Coelho](profiles/elton_coelho.md)
 - [Emanuel Gonçalves](profiles/EmanuelG.md)
+- [Emerson Nobrega](profiles/EmersonNobrega.md)
 - [Enieber Cunha da Silva](profiles/EnieberCunha.md)
 - [Enrico Viceconti](profiles/Eviceconti.md)
 - [Eric Madureira](profiles/EricMadureira.md)
